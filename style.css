@@ -38,13 +38,13 @@ main {
 }
 
 .title {
-  font-size: 2em;
+  font-size: 2rem;
   line-height: 1.2;
   margin-bottom: 48px;
 }
 
 p {
-  font-size: 1.25em;
+  font-size: 1.25rem;
   line-height: 1.5;
   margin-top: 16px;
   margin-bottom: 16px;
